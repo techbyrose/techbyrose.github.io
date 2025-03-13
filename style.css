@@ -1,0 +1,65 @@
+body{
+    background-color: bisque;
+}
+article{
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-style: normal;
+}
+p{
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-style: normal; 
+}
+h1{
+    font-size: 80px;
+    color: aliceblue;
+}
+h2{
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800px;
+    font-style: normal;
+    text-align: center;
+}
+img{
+    max-width: 500px;
+    border-radius: 10px;
+    border: 7px solid aliceblue;
+}
+header{
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-style: normal;
+
+    text-align: center;
+    background: url(images/bannerCatPic.jpg);
+    background-size: cover;
+    padding: 20px 0px 20px 0px;
+    border-radius: 10px;
+}
+ul{
+    padding: 10px;
+}
+li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+.headerLink{
+    color: aliceblue;
+}
+#headerCatPic{
+    margin: 40px 0px 0px 0px;
+}
